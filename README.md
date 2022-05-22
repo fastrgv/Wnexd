@@ -25,7 +25,7 @@ Executing "ndprep.bat" file will make the new commands available. It uses "doske
 ### Usage
 * dirs : displays stack
 * dirs -c : clears the stack
-* nexd : moves to the next directory in the stack [without popping it]; similar in funcion to linux "pushd +1"; 
+* nexd : moves to the next directory in the stack [without popping it]; similar in function to linux "pushd +1"; 
 
 
 -------------------------------------------------------------------
