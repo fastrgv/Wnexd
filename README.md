@@ -1,5 +1,5 @@
 
-![screenshot](https://github.com/fastrgv/Wnexd/blob/master/eg.png)
+![screenshot](https://github.com/fastrgv/Wnexd/blob/main/eg.png)
 
 
 # Wnexd
