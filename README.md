@@ -1,4 +1,7 @@
 
+![screenshot](https://github.com/fastrgv/Wnexd/blob/master/eg.png)
+
+
 # Wnexd
 ## -- Windows "nexd" Directory Utility for Command Prompt users
 -------------------------------------------------------------------
