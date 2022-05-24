@@ -3,11 +3,12 @@ Example
 
 
 
+--------------------------------------------------------------------------------------
 
-Simply click on this 7z file for all Windows source files (bat scripts):
+Simply click on this 7z file to download all Windows source files (bat scripts):
 https://github.com/fastrgv/Wnexd/releases/download/v1.0.0/nexd.7z
 
-
+--------------------------------------------------------------------------------------
 
 # Wnexd
 ## -- Windows "nexd" Directory Utility for Command Prompt users
