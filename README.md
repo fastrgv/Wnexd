@@ -2,8 +2,11 @@ Example
 ![screenshot](https://github.com/fastrgv/Wnexd/blob/main/eg.png)
 
 
-Simply click on this 7z file for all Windows source files:
+
+
+Simply click on this 7z file for all Windows source files (bat scripts):
 https://github.com/fastrgv/Wnexd/releases/download/v1.0.0/nexd.7z
+
 
 
 # Wnexd
