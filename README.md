@@ -27,7 +27,7 @@ Adjunct to the Windows-intrinsic pushd/popd utilities for users of the Command P
 
 ### Setup wnexd using doskey command:
 
-Either copy the ./wnexd/ directory, or download the 7Z file and unzip it, in your %HOMEPATH% directory.
+Either copy the ./wnexd/ directory, or download the latest release (7Z file) and unzip it, in your %HOMEPATH% directory.
 
 Executing "ndprep.bat" file will make the new commands available. It uses "doskey" to add three commands: nexd, pred, dirs:
 
