@@ -14,7 +14,7 @@ https://github.com/fastrgv/Wnexd/releases/download/v1.0.0/nexd.7z
 ## -- Windows "nexd" Directory Utility for Command Prompt users
 -------------------------------------------------------------------
 ### Wnexd Description
-Adjunct to the Windows-intrinsic pushd/popd utilities for users of the Command Prompt terminal window that simulates a linux-style "pushd +1", and "dirs".
+Tiny adjunct to the Windows-intrinsic pushd/popd utilities for users of the Command Prompt terminal window that simulates a linux-style "pushd +1", and "dirs".
 
 #### Features
 * Allows round-robin traversal of directories in the "pushd" stack
